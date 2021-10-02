@@ -1,1 +1,2 @@
 test file
+this is a class 2 update test
